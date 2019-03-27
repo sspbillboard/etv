@@ -1,0 +1,1 @@
+bitsadmin /transfer pullmsgs /download /priority FOREGROUND https://github.com/sspbillboard/etv/raw/master/BuildingSide-latest.etv %HOMEDRIVE%%HOMEPATH%\Downloads\BuildingSide-%DATE%.etv

@@ -1,0 +1,1 @@
+bitsadmin /transfer pullmsgs /download /priority FOREGROUND https://github.com/sspbillboard/etv/raw/master/MainEntrance-latest.etv %HOMEDRIVE%%HOMEPATH%\Downloads\MainEntrance-%DATE%.etv
